@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Inlamning7front/static/css/main.63d8af4c.chunk.css",
+    "main.js": "/Inlamning7front/static/js/main.58293a00.chunk.js",
+    "main.js.map": "/Inlamning7front/static/js/main.58293a00.chunk.js.map",
+    "runtime-main.js": "/Inlamning7front/static/js/runtime-main.4787fb74.js",
+    "runtime-main.js.map": "/Inlamning7front/static/js/runtime-main.4787fb74.js.map",
+    "static/js/2.e67143cf.chunk.js": "/Inlamning7front/static/js/2.e67143cf.chunk.js",
+    "static/js/2.e67143cf.chunk.js.map": "/Inlamning7front/static/js/2.e67143cf.chunk.js.map",
+    "static/js/3.de8c71ff.chunk.js": "/Inlamning7front/static/js/3.de8c71ff.chunk.js",
+    "static/js/3.de8c71ff.chunk.js.map": "/Inlamning7front/static/js/3.de8c71ff.chunk.js.map",
+    "index.html": "/Inlamning7front/index.html",
+    "static/css/main.63d8af4c.chunk.css.map": "/Inlamning7front/static/css/main.63d8af4c.chunk.css.map",
+    "static/js/2.e67143cf.chunk.js.LICENSE.txt": "/Inlamning7front/static/js/2.e67143cf.chunk.js.LICENSE.txt",
+    "static/media/logotype.6579da65.svg": "/Inlamning7front/static/media/logotype.6579da65.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4787fb74.js",
+    "static/js/2.e67143cf.chunk.js",
+    "static/css/main.63d8af4c.chunk.css",
+    "static/js/main.58293a00.chunk.js"
+  ]
+}
